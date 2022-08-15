@@ -1,0 +1,15 @@
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.exe
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.deps.json
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.runtimeconfig.json
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.dll
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\bin\Debug\net6.0\PoupaDev.Console.pdb
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.AssemblyInfo.cs
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.dll
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\refint\PoupaDev.Console.dll
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.pdb
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\PoupaDev.Console.genruntimeconfig.cache
+C:\workspace\UdemyC#\POUPADEV.CONSOLE\PoupaDev.Console\obj\Debug\net6.0\ref\PoupaDev.Console.dll
